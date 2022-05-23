@@ -30,6 +30,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 6. `npm run lint` - runs linter to check for lint errors
 
+some changes
 ## File Structure
 
 ### Webpack Configs
